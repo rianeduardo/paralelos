@@ -1,0 +1,2 @@
+# paralelos
+estudos paralelos
