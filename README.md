@@ -9,5 +9,5 @@ Repositório dedicado a **anotações, exercícios e experimentos** com tecnolog
 - 💙 **Dart & Flutter (SDK)**
 - 🔐 **Cybersecurity**
   - Anotações teóricas
-  - Exercícios práticos
   - Conceitos de pentesting
+  - Pensamentos
