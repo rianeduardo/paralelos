@@ -1,5 +1,13 @@
-# Rian - Estudos Paralelos
+# 📚 Rian — Estudos Paralelos
 
-## Repo para subir anotações/exercícios de tecnologias estudadas em paralelo
+Repositório dedicado a **anotações, exercícios e experimentos** com tecnologias que estou estudando em paralelo ao meu foco principal.
 
-```Java, Rust, Dart (SDK Flutter) & Anotações Cybersec.```
+## 🚀 Tecnologias & Conteúdos
+
+- ☕ **Java**
+- 🦀 **Rust**
+- 💙 **Dart & Flutter (SDK)**
+- 🔐 **Cybersecurity**
+  - Anotações teóricas
+  - Exercícios práticos
+  - Conceitos de pentesting
