@@ -5,7 +5,7 @@ Repositório dedicado a **anotações, exercícios e experimentos** com tecnolog
 ## 🚀 Tecnologias & Conteúdos
 
 - ☕ **Java**
-- 🦀 **Rust**
+- 🦀 **Rust** (Em breve - Estudo Sec)
 - 💙 **Dart & Flutter (SDK)**
 - 🔐 **Cybersecurity**
   - Anotações teóricas
