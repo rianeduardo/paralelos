@@ -1,6 +1,6 @@
 # 📚 Rian — Estudos Paralelos
 
-Repositório dedicado a **anotações, exercícios e experimentos** com tecnologias que estou estudando em paralelo ao meu foco principal.
+Repositório dedicado a **anotações, exercícios e experimentos** com tecnologias que estou estudando em paralelo ao meu foco principal no SENAI.
 
 ## 🚀 Tecnologias & Conteúdos
 
